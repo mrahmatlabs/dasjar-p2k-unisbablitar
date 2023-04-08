@@ -1,6 +1,6 @@
 # Jaringan Komputer 
 
-|  |  |
+| Haha  |  |
 |--|--|
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/mrhmt80) |
 | Tahun Ajaran | Ganjil 2020/2021 |
